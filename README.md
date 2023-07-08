@@ -1,6 +1,6 @@
 # Crops
 Land used by crops
 
-[data](https://github.com/NicJC/Crops/blob/main/crop.csv)
+[data](https://raw.githubusercontent.com/NicJC/Crops/main/crop.csv)
 
 ![](https://github.com/NicJC/Crops/blob/main/plot.png)
